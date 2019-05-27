@@ -1,1 +1,1 @@
-worker:node .gitignore
+worker node index.js
